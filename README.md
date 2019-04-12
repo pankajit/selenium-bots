@@ -17,15 +17,25 @@ Create a config.py file in the local directory that looks similar to this for ea
 
 
 keys = {
+
         "product_url": "https://www.supremenewyork.com/shop/bags/gwdz8oy2a/ya1zks84e",
+        
         "name": "Pankaj Kumar",
+        
         "email": "pankajit@hotmail.com",
+        
         "phone_number": "99999999999",
+        
         "street_address": "Mumbai Palava city Thane",
+        
         #"city": "Mumbai", this is autofilled
+        
         "zip_code": "420202",
+        
         "card_cvv": "666",
+        
         "card_number": "1228199669918221"
+        
 }
 
 STEP THREE
