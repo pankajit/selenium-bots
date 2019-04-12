@@ -2,6 +2,7 @@
 Automate your script to buy product
 
 STEP ONE
+
 $ git clone https://github.com/jg-fisher/supreme-bot
 $ cd supreme-bot
 $ virtualenv venv --python=python3.7
